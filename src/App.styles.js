@@ -18,5 +18,7 @@ background-size: cover;
 background-clip: content-box;
 
  }
-
+img{
+  margin-top: 90vh;
+}
 `;

@@ -6,6 +6,10 @@ function App() {
     <>
       <GlobalStyles />
       <Navbar />
+      <img
+        alt='GitHub package.json version (branch)'
+        src='https://img.shields.io/github/package-json/v/tomeczekstecc/martynatv/main'
+      ></img>
     </>
   );
 }
